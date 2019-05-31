@@ -1,2 +1,2 @@
-# pythonprogramming-may-2019
+# PythonProgramming-may-2019
 6 DAY faculty development program
